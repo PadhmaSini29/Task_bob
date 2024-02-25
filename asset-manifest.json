@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PadhmaSini29/Task_bob/static/css/main.1708956e.css",
+    "main.js": "/PadhmaSini29/Task_bob/static/js/main.669c0c34.js",
+    "static/media/pexels-manuel-barros-2403016.jpg": "/PadhmaSini29/Task_bob/static/media/pexels-manuel-barros-2403016.0a260bd23a962d9e1a62.jpg",
+    "index.html": "/PadhmaSini29/Task_bob/index.html",
+    "main.1708956e.css.map": "/PadhmaSini29/Task_bob/static/css/main.1708956e.css.map",
+    "main.669c0c34.js.map": "/PadhmaSini29/Task_bob/static/js/main.669c0c34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1708956e.css",
+    "static/js/main.669c0c34.js"
+  ]
+}
